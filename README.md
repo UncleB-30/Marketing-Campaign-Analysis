@@ -3,6 +3,7 @@
 ![Marketing Campaign pg2 ](https://github.com/user-attachments/assets/327817a7-76a9-447b-bf25-6d0a55d92ea1)
 
 **Project Overview** 
+
 This project involved a comprehensive analysis of a multinational digital advertising campaign for a confidential client in the marketing sector.
 The campaign spanned several countries across North America and Africa over the course of 2023.
 As a Data Analyst, I used Power BI to transform raw ad performance data into a strategic decision-making tool,
